@@ -1,0 +1,7 @@
+{
+  "name": "ovvoc-test-pro-40",
+  "version": "1.0.0",
+  "description": "Next.js 14 app with sync request APIs",
+  "scripts": { "test": "node test/config.test.js" },
+  "dependencies": { "next": "14.2.20", "react": "18.2.0", "react-dom": "18.2.0" }
+}
